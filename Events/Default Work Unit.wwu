@@ -11,7 +11,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Shotgun_Blast" ID="{053D97BA-9EED-4928-9ED5-193EFBA0F2BA}" WorkUnitID="{C35B40D5-8022-4254-9B90-EE8B0492353C}"/>
+									<ObjectRef Name="Shutgun Blast" ID="{053D97BA-9EED-4928-9ED5-193EFBA0F2BA}" WorkUnitID="{C35B40D5-8022-4254-9B90-EE8B0492353C}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
