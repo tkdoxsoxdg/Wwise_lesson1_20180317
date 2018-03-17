@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{FB29D52D-C8B0-42F4-9EC3-DA5899962FD8}" SchemaVersion="85">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{FB29D52D-C8B0-42F4-9EC3-DA5899962FD8}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{FB29D52D-C8B0-42F4-9EC3-DA5899962FD8}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{86ADC0A5-2527-4A7E-BE38-511D32151182}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Fire_Shotgun_Player" ID="{29DD63AB-696B-4858-9D59-532FD351B8B4}" WorkUnitID="{DB695CC8-8F78-4AE3-8D72-174144B8882A}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

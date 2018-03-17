@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{DB695CC8-8F78-4AE3-8D72-174144B8882A}" SchemaVersion="85">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{DB695CC8-8F78-4AE3-8D72-174144B8882A}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{DB695CC8-8F78-4AE3-8D72-174144B8882A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Fire_Shotgun_Player" ID="{29DD63AB-696B-4858-9D59-532FD351B8B4}">
+					<ChildrenList>
+						<Action Name="" ID="{F5FCC27F-5495-42CB-8214-533174FBB084}" ShortID="73950342">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Shotgun_Blast" ID="{053D97BA-9EED-4928-9ED5-193EFBA0F2BA}" WorkUnitID="{C35B40D5-8022-4254-9B90-EE8B0492353C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>
