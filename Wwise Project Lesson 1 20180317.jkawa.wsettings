@@ -3,9 +3,11 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{51F440FC-7835-47A5-83C7-887EA28302E4}">
 			<PropertyList>
-				<Property Name="AudioFilesImporter\Path" Type="string" Value="D:\IFK_高田佑樹\Wwise-101\Lesson 2\Audio files for Lesson 2\Shotgun Shells"/>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="D:\IFK_高田佑樹\Wwise-101\Lesson 4\Audio files for Lesson 4"/>
 				<Property Name="Event Action List\{29DD63AB-696B-4858-9D59-532FD351B8B4}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{3C6445CB-86DB-4377-A1BA-5630A6E80DC0}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{5F23B01E-712B-4579-8F64-F6E7F806EFBB}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{CF7E2F54-BA0D-4F5F-84B4-89275DE2E1F4}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{DDC562F1-376F-4572-9FB0-C392FD38BB21}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
@@ -50,12 +52,12 @@
 				<Property Name="ProjectExplorer\x64_Expanded_1_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="1UBbwyKAVEKbkO6LBJI1PPsXYGyO2XlEjoiTip2Z/AJCPBkGpwyFRqFFjGW8rap0"/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="1UBbwyKAVEKbkO6LBJI1PD1R4bNnCvFDhhOGn/f/gG77F2Bsjtl5RI6Ik4qdmfwCQjwZBqcMhUahRYxlvK2qdCnhHHDO4/FGvqlgbKufj3owy7S8KoEbSrFKR27uQDkH7rlVPvkFME6OA7V9MMLm8kHbykU+qFlOvmYsoVObhjuT1127hfJ0T40d33pLiTKA"/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="yFxp23iP40qNchdBRLiIKg=="/>
-				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="RnRvBDU2e0SSxyRuVrySklGv6hKTBxpPlq4DMfihAmU="/>
+				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="RInuYLXo6Um/dTLjUSP1vLSDtJuPO19OlZ89gnoGTK0="/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="LdUp+7DI9EKew9pYmZYv2A=="/>
-				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value=""/>
+				<Property Name="ProjectExplorer\x64_Expanded_7_1" Type="string" Value="JlTLmHPLKECXCEAyd1xNlw=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_8_1" Type="string" Value=""/>
 				<Property Name="RTPC\GameParameterSimValue\{09E2B445-C4A3-447F-B3CA-818A1D925EF7}" Type="Real64" Value="6"/>
 				<Property Name="RTPC\GameParameterSimValue\{1329EBEF-A193-472E-A38C-64668B494879}" Type="Real64" Value="50"/>
@@ -63,6 +65,7 @@
 				<Property Name="RTPC\GameParameterSimValue\{536FA72C-8C7E-4C8B-AE03-EF34FDADC314}" Type="Real64" Value="6"/>
 				<Property Name="RTPC\GameParameterSimValue\{A2AE79DC-CA3A-46BA-9652-9986C322A87B}" Type="Real64" Value="50"/>
 				<Property Name="RTPC\GameParameterSimValue\{A34890AB-B9D5-4526-A64D-5290C43EF2DC}" Type="Real64" Value="50"/>
+				<Property Name="RTPC\GameParameterSimValue\{BFBE94E0-1F30-4D01-9536-76221BB2781C}" Type="Real64" Value="0"/>
 				<Property Name="RTPC\GameParameterSimValue\{E3B7811A-7B2F-490F-B44F-5FE51B468041}" Type="Real64" Value="75"/>
 				<Property Name="RTPC\GameParameterSimValue\{E93F8CDB-06D1-4737-ACAF-7CD44BBED783}" Type="Real64" Value="75"/>
 				<Property Name="RTPC\GameParameterSimValue\{EDA87B19-73AA-40A0-9F19-2073606DB710}" Type="Real64" Value="6"/>

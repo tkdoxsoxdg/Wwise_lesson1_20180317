@@ -17,6 +17,34 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Player_Footsteps" ID="{3C6445CB-86DB-4377-A1BA-5630A6E80DC0}">
+					<ChildrenList>
+						<Action Name="" ID="{241B3108-FA33-4ECD-9E92-5D734D25EA54}" ShortID="363245928">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{BCB4CB30-812A-4A1B-B14A-476EEE403907}" WorkUnitID="{C35B40D5-8022-4254-9B90-EE8B0492353C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Health" ID="{CF7E2F54-BA0D-4F5F-84B4-89275DE2E1F4}">
+					<ChildrenList>
+						<Action Name="" ID="{B5A64389-89F1-45C7-8F8C-DFB841D294EF}" ShortID="427318610">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Heartbeat" ID="{EB5689AD-02A5-45A6-BE69-058294E6FEA1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
